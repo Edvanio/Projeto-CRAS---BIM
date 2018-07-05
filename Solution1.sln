@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pranchas", "Pranchas", "{F2C18A7A-4DCD-40F8-9489-CB2041D0DECB}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\07-CREAS-BALDRAME-FORMA.pdf = D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\07-CREAS-BALDRAME-FORMA.pdf
+		D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\08-CREAS-BALDRAME-ARM-VIGAS.pdf = D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\08-CREAS-BALDRAME-ARM-VIGAS.pdf
+		D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\09-CREAS-BALDRAME-ARM-VIGAS.pdf = D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\09-CREAS-BALDRAME-ARM-VIGAS.pdf
+		D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\10-CREAS-BALDRAME-ARM-VIGAS.pdf = D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\10-CREAS-BALDRAME-ARM-VIGAS.pdf
+		D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\11-CREAS-BALDRAME-ARM-LAJES.pdf = D:\Dropbox\Projetos particulares\Projetos Particular\Deinfra SC\Projeto CREAS 03\ESTRUTURAL CREAS - PDF\SupraEstrutura\Baldrame\11-CREAS-BALDRAME-ARM-LAJES.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelo IFC", "Modelo IFC", "{2137D7FE-B1DD-4AFB-8B0D-3A4652500FD0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\IFC Dionísio\IFC_EST_2018-05 (Versão Pública).ifc = ..\..\..\Desktop\IFC Dionísio\IFC_EST_2018-05 (Versão Pública).ifc
+		..\..\..\Desktop\IFC Dionísio\IFC_EST_2018-08 (Versão em desenvolvimento).ifc = ..\..\..\Desktop\IFC Dionísio\IFC_EST_2018-08 (Versão em desenvolvimento).ifc
+		..\..\..\Desktop\IFC Dionísio\IFC_MEP_2018-05 (Versão Pública).ifc = ..\..\..\Desktop\IFC Dionísio\IFC_MEP_2018-05 (Versão Pública).ifc
+		..\..\..\Desktop\IFC Dionísio\IFC_MEP_2018-08 (Versão em desenvolvimento).ifc = ..\..\..\Desktop\IFC Dionísio\IFC_MEP_2018-08 (Versão em desenvolvimento).ifc
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {409661A9-59DA-44E2-BBF0-9185CC027EA8}
+	EndGlobalSection
+EndGlobal
