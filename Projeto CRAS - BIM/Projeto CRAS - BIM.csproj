@@ -76,10 +76,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Documentaçao\Blocos Cerâmicos PM - Resumo de materiais.rtf" />
+    <None Include="Documentaçao\InfraEstrutura Blocos - Resumo de Materiais.rtf" />
     <None Include="Documentaçao\InfraEstrutura Sapatas - Resumo de Materiais.rtf" />
     <None Include="Documentaçao\SupraEstrutura - Resumo de materiais.rtf" />
     <None Include="Modelos IFC\IFC_EST_2018-08 %28Versão em desenvolvimento%29.ifc" />
     <None Include="Modelos IFC\IFC_MEP_2018-08 %28Versão em desenvolvimento%29.ifc" />
+    <None Include="Pranchas\07-CREAS-BALDRAME-FORMA.DWG" />
+    <None Include="Pranchas\08-CREAS-BALDRAME-ARM-VIGAS.DWG" />
+    <None Include="Pranchas\09-CREAS-BALDRAME-ARM-VIGAS.DWG" />
+    <None Include="Pranchas\10-CREAS-BALDRAME-ARM-VIGAS.DWG" />
+    <None Include="Pranchas\11-CREAS-BALDRAME-ARM-LAJES.DWG" />
     <None Include="Pranchas\Projeto Elétrico CREAS-Model.pdf" />
     <None Include="Pranchas\Projeto Elétrico CREAS.dwg" />
     <None Include="Properties\Settings.settings">
